@@ -17,4 +17,6 @@ Design and implement a game, making use of Artificially Intelligent algorithm, s
 is playing first, then the Computer would pick up the bottles intelligently each time, and the 
 Computer would always Win. The Computer would never Lose.  
 
-images文件夹-存放.png格式的酒瓶图片，可自行修改为其它图片
+### Notice
+资源路径配置原因，如要下载并运行.jar文件，请与images文件夹一同下载并放在同一文件夹内。
+Images-存放.png格式的酒瓶（罐头猫）图片，可自行修改为其它图片。
